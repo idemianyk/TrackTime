@@ -6,5 +6,5 @@
   - you can open report of all ran process and their runtime by pressing .
   - you can save report by pressing 'Файл' and then "Збрегти звіт"
   - you can load report by pressing 'Файл' and then "Відкрити звіт"
-  - you can choose default directory for 
+  - you can choose default directory for saving reports
   
